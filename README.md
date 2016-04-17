@@ -1,5 +1,5 @@
 # The-introduction-of-myHis
-The introduction of my his.\n
+The introduction of my his. 
 Hello everyone！
 
 这个库是用来展示我项目的图片。 
